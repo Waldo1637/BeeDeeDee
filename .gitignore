@@ -10,6 +10,7 @@ ant-doc
 src/com/juliasoft/beedeedee/VersionInfo.java
 # Ivy resolver stuff
 distrib
+# Netbeans
 /nbproject/private/
 /build/
 /dist/
